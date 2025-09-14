@@ -2,8 +2,6 @@
 
 # Anray Liu
 
----
-
 Aspiring DevOps Engineer with a passion for hardware and systems.
 
 ![Fire Animation](https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif)
@@ -31,12 +29,10 @@ Aspiring DevOps Engineer with a passion for hardware and systems.
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
----
-
 ## GitHub Stats
 
-![Anray's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true&theme=dark)
-![Anray's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anrayliu&theme=dark&hide_border=false)
+![Anray's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true&theme=light)
+![Anray's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anrayliu&theme=light&hide_border=false)
 
 ## Let's Connect
 
