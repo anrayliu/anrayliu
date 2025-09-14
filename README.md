@@ -31,8 +31,8 @@ Aspiring DevOps Engineer with a passion for hardware and systems.
 
 ## GitHub Stats
 
-![Anray's GitHub stats](https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true&theme=light)
-![Anray's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=anrayliu&theme=light&hide_border=false)
+<img src="https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true&theme=light" alt="Anray's GitHub Stats" height="165">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anrayliu&theme=light&hide_border=false" alt="Anray's GitHub Streak" height="165">
 
 ## Let's Connect
 
