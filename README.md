@@ -36,7 +36,7 @@ Aspiring DevOps Engineer with a passion for hardware and systems.
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anrayliu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anray-liu/)
 [![Website](https://img.shields.io/badge/Website-anrayliu.ca-2E3A59?style=for-the-badge)](https://anrayliu.ca)
 [![Email](https://img.shields.io/badge/Email-anrayliu@gmail.com-D14836?style=for-the-badge)](mailto:anrayliu@gmail.com)
 
