@@ -23,7 +23,7 @@ Aspiring cloud engineer with a passion for hardware and systems.
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
 
 ## GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true&hide_title=true#gh-light-mode-only" alt="Anray's GitHub Stats" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=anrayliu&show_icons=true#gh-light-mode-only" alt="Anray's GitHub Stats" height="165">
 <img src="https://nirzak-streak-stats.vercel.app/?user=anrayliu&theme=light&hide_border=false" alt="Anray's GitHub Streak" height="165">
 
 ## Contact
